@@ -1,0 +1,5 @@
+a= input ("Masukan nama Anda:")
+b= input ("Masukan nama matakuliah:")
+c= input ("Masukan grub Anda:")
+print ("Haloo!"+ a + a)
+print ("Anda tergabung dalam kelas" +" "+ b, "pada grup" +" "+ c)
